@@ -4,4 +4,5 @@
  :company/website "https://www.phillips66.com"
  :company/ticker "NYSE:PSX"
  :itonami.blueprint/robotics false
- :required-technologies [:identity :audit-ledger]}
+ :required-technologies [:identity :audit-ledger]
+ :company/inquiry-form-url "https://www.phillips66.com/contact/"}
